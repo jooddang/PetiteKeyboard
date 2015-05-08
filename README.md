@@ -4,6 +4,7 @@ This code is written for my need to type in one hand. The keyboard layout of iPh
 
 # To-dos
   * Flip keyboard layout for left hand.
+  * Add proper images for shift, return, globe keys.
   * Recognize swipe gesture to type.
   * Enable Korean and other Unicode typing.
   * Predict words by data.
